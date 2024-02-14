@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "kellymccarthy-XXLWDC9HJ7",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus13.actions.githubusercontent.com/f19hCt1sgd1LVJanmvtDuQQyUGh5T9ntDxY477wu5rawZBnCLz/",
+  "gitHubUrl": "https://github.com/kmccarthyhashi/vault-action-exampleapp",
+  "workFolder": "_work"
+}
